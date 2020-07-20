@@ -1,0 +1,11 @@
+What is Git and how is it different than github
+
+Git is unique from github because it keeps track of source code history whereas GitHub is a cloud-based hosting service that lets you manage Git repositories.
+
+We should use the terminal because it provides the most efficient interface to access the true power of a computer rendering it an integral part of any operating system.
+
+ 3 benefits of version control:
+Working Collaboratively with various contributors
+Opportunity for revision and redrafting reducing any errors
+Traceability following revisions made over time with a records of different versions of the document
+
