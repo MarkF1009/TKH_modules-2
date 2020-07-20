@@ -1,3 +1,3 @@
 # Welcome to Quiana's TKH Repo
-## Modules 1 - 7 lives here
-![pacmanplanet.gif](https://thumbs.gfycat.com/InsignificantForkedHorsemouse-mobile.mp4)
+## Branches 1 - 7 lives here
+![treebranch](https://user-images.githubusercontent.com/24463725/87942740-0a386180-ca6b-11ea-96c2-e2c516e6f593.gif)
