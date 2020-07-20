@@ -13,31 +13,28 @@ Answer the following questions in a .txt file saved as: What_is_code_reflection
 
 In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
 
-
-The constantly scanning keyboard is a mechanical device that has keys that interprets the scan code every time we press down and release a key. The keys when pressed generate an electric signal which circuits to the CPU where code can be interpreted. The computer then pulls an image of the typed letter out of its memory as part of a font and then translates it as a signal to be passed along the drivers for the keyboard. This is then passed to program for display which translates into a format for the monitor where the letters are then displayed.
-
+The constantly scanning keyboard is a mechanical device that has keys that interprets the scan code every time we press down and release a key.
+The keys when pressed generate an electric signal which circuits to the CPU where code can be interpreted. 
+The computer then pulls an image of the typed letter out of its memory as part of a font and then translates it as a signal to be passed along the drivers for the keyboard. 
+This is then passed to program for display which translates into a format for the monitor where the letters are then displayed.
 
 In your own words, how do computers use input and output to create experiences? (250 words max)
-The computer sits between the input and output devices and has functions it can perform.  Developers code inputs and outputs carry out functions which create user experiences. A computer program processes and digitizes the input information. The result is then sent to an output display device such as a screen. The interface is the arrangement of inputs and outputs that enable people to apply the computer's functions to create outcomes they want which can make or break end-users experiences, whether it be for email or a baby monitor output.
 
-
+The computer sits between the input and output devices and has functions it can perform.
+Developers code inputs and outputs carry out functions which create user experiences. A computer program processes and digitizes the input information. The result is then sent to an output display device such as a screen. The interface is the arrangement of inputs and outputs that enable people to apply the computer's functions to create outcomes they want which can make or break end-users experiences, whether it be for email or a baby monitor output.
 
 
 Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
 
 
- Coders originally started with coding for concepts and created infinitely reproducible units of digital execution that created software.“If you can sell the software, if you can light up the screen, you’re selling infinitely reproducible nothing” meant other companies or competitors now can take those infinitely reproducible units of digital execution, reproduce their own and give away the same premium software products for free, like Linux or google apps thus decreasing the value of the software product.
-
-
+ Coders originally started with coding for concepts and created infinitely reproducible units of digital execution that created software.
+ “If you can sell the software, if you can light up the screen, you’re selling infinitely reproducible nothing” meant other companies or competitors now can take those infinitely reproducible units of digital execution, reproduce their own and give away the same premium software products for free, like Linux or google apps thus decreasing the value of the software product.
 
 
 Explain in your own words how code becomes software. (150 words max)
 
-
-Code is the “blueprint” of software, which only comes to life when the software is run to transforms the coded commands into machine language. The code is then turned into an explicit list of instructions that can be carried out by interconnected logic gates that will execute functions.
-
-
-
+Code is the “blueprint” of software, which only comes to life when the software is run to transforms the coded commands into machine language. 
+The code is then turned into an explicit list of instructions that can be carried out by interconnected logic gates that will execute functions.
 
 Explain “algorithms” in your own words. (150 words max)
 
@@ -49,7 +46,6 @@ Explain the DRY principle. (100 words max)
 
 
 DRY principle or “Don’t Repeat Yourself” is a principle of software development that emphasizes avoiding code duplication so to boost the efficiency of the code.
-
 
 In your own words, what is object-oriented programming? (100 words max)
 
@@ -72,17 +68,17 @@ A framework provides a foundation on which software developers can build program
 What is debugging? (150 words max)
 
 
- Debugging is the process of “proofreading” or resolving bugs or defects in
-Code. Through this detection, any existing bugs in the software code that can potentially lead to a crash or error are resolved.
+ Debugging is the process of “proofreading” or resolving bugs or defects in code. Through this detection, any existing bugs in the software code that can potentially lead to a crash or error are resolved.
 
 
 Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
 
 
-Coding is a superpower-like skill and the versatility behind the role is exciting.  My philosophy on the necessity of code is what motivates me to learn it, whether we are a part of the technological movement or not, tech shapes our world. I truly believe we all need to do our part in educating ourselves and each other about it. Other reasons why I want to learn is: coding can boost problem-solving and logic skills helping me approach life as a whole from a different perspective while becoming a better problem solver in my everyday life.
+Coding is a superpower-like skill and the versatility behind the role inspires me to explore it's possibilities. In life, criticism helps us grow and not always do we have access to direct and constructive feedback that helps us realize our potential. Coding however presents a rare opportunity where one's errors are specifically displayed to study up on them and learn how to prevent them in the future. When coding one has to face problems head on, moving from failure to failure without discouragement and while embracing it's creative messiness on a regular basis. This forces one to go from a fixed to a growth mindset, seeing problems and failures as disguised opportunities and catalysts for building & strategizing new pathways pushing one to their highest potential. A career that fosters these qualities of resiliency, creativity, open-mindedness, self-kindness with one's mistakes, problem solving, confidence, self-assurance- internally and externally, is a career worth the huge time, energy and life investment it will take to build.
+Also, my philosophy on the necessity of code is what motivates me to want to learn it, whether we are a part of the technological movement or not, tech shapes our world. I truly believe we all need to do our part in educating ourselves and each other about it, especially within communities of color where our representation in the tech industry is needed more than ever. Other reasons why I want to learn to code is: coding can boost problem-solving and logic skills helping me approach life as a whole from a different perspective while becoming a better problem solver in my everyday life while seeing the world from a totally new perspective.
 
 
-I also would like to build a sense of self-reliance and empowerment becoming self-sufficient and resourceful to solve problems on my own while also learning to ask for help within a supportive community of coders. Coding will build my attention to detail making me more intentional and mindful about the work I do. Moreover,  I want to become an asset to any team or business I come across while improving my tech, entrepreneurial, communication and collaboration skills. 
+I also would like to build a sense of self-reliance and empowerment becoming self-sufficient and resourceful to solve problems on my own while also learning how to tap into resources and exchanging help within a supportive community of coders. Coding will build my attention to detail making me more intentional and mindful about the work I do. Moreover,  I want to become an asset to any team or business I come across while improving my tech, entrepreneurial, communication and collaboration skills. 
 
 
  Moreover, learning to code will allow me to merge technical skills with my innate creativity and desire to give back, while pursuing various projects running from establishing online businesses, building mobile applications and more. As previously mentioned, what attracts me to coding is the alignment with my interests and values, coding is more than just a job or skill but rather a huge opportunity to provide service to society and communities of color through solving problems and creating programs/events/tools that can create a large future impact. I want to learn code because I am curious about what possibilities exist for creating programs for the intersection between natural and computer sciences. By applying technical skills to my passions, within a team I eventually want to use my knowledge of code to fight inequalities, face global problems and protect our planet.
