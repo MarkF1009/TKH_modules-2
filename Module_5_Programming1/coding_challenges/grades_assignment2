@@ -1,0 +1,15 @@
+Assignment 2 
+You are given a variable grade. Your task is to print:
+
+- A+ if marks is greater than 95 .
+- A if marks is greater than 88 and less than or equal to 90 .
+- B+ if marks is greater 84 than and less than or equal to 88.
+- C+ if marks is greater than 76 and less than or equal to 84.
+- C if marks is greater than 70 and less than or equal to 76.
+- D+ if marks is greater than 67and less than or equal to 70.
+- D if marks is greater than 64 and less than or equal to 67.
+- F if marks is less than or equal to 64
+
+Note
+Use console.log for printing statements to the console.
+HINT*** This may be a good use of a switch statement
